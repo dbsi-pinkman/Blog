@@ -5,9 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
-
-namespace 学校管理系统1._0
-{
     public class DBHelper
     {
         /*
@@ -97,4 +94,3 @@ namespace 学校管理系统1._0
             return dt;
         }
     }
-}
